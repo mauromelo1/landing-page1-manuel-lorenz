@@ -31,5 +31,9 @@ header ul {
 }
 
 header li {
-    margin-left: 10px;
+    margin-left: 20px;
+}
+
+header li a {
+    text-decoration: none;
 }
